@@ -1,0 +1,19 @@
+﻿Build started 9.2.2015 1:39:44.
+     1>Project "C:\Users\Petar\documents\visual studio 2012\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt thePlayer.cpp
+         thePlayer.cpp
+     1>c:\users\petar\documents\visual studio 2012\projects\project1\project1\externs.h(1): warning C4081: expected 'identifier'; found '('
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Petar\documents\visual studio 2012\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Petar\documents\visual studio 2012\Projects\Project1\Debug\Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Petar\documents\visual studio 2012\Projects\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Project1.res
+         Debug\theBullet.obj
+         Debug\theEnemy.obj
+         Debug\thePlayer.obj
+         Debug\Source.obj
+         ..\Debug\SDL2.lib
+         Project1.vcxproj -> C:\Users\Petar\documents\visual studio 2012\Projects\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\Petar\documents\visual studio 2012\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.59
